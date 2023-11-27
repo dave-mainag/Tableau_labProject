@@ -16,3 +16,5 @@ Loans with the highest estimated returns are taken by borrowers whose loans are 
 
 ## Tableau dashboard graphics 
 [Infographics](https://public.tableau.com/app/profile/david.githaiga6232/viz/Loansdataset/Dashboard1#guest=n)
+
+![Loan dataset infographic](Tableau_Dashboard.png)
